@@ -1,0 +1,2 @@
+# TP2_introHadoop
+Create M/R software  look at /res/prenoms.csv on hdfs (hdfs dfs -cat).  It contains semicolon separated csv exports of first names. The header (column name) is name;gender (m/f) ;origin ;version (don't pay attention to this value) When multiples values are possible (gender, origin), they are comma separated.  Create M/R Softwares to get these stats (1 M/R per stat) (16pts): - Count first name by origin - Count number of first name by number of origin (how many first name has x origins ? For x = 1,2,3...) -  Proportion (in%) of male or female
