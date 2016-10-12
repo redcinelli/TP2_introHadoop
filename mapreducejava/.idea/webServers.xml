@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="581c27e1-13f1-4e28-92b6-e39e045e25d8" name="hadoopCluster" url="http://ns3024382.ip-149-202-81.eu">
+        <fileTransfer host="ns3024382.ip-149-202-81.eu" port="22" rootFolder="/home/pletilly" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
